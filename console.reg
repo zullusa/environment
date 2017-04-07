@@ -33,7 +33,7 @@ Windows Registry Editor Version 5.00
 "PopupColors"=dword:000000f5
 "QuickEdit"=dword:00000001
 "ScreenBufferSize"=dword:270f0078
-"ScreenColors"=dword:0000003b
+"ScreenColors"=dword:00000056
 "TrimLeadingZeros"=dword:00000000
 "WindowSize"=dword:001b0078
 "WordDelimiters"=dword:00000000
