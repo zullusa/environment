@@ -31,7 +31,7 @@ Windows Registry Editor Version 5.00
 "LoadConIme"=dword:00000001
 "NumberOfHistoryBuffers"=dword:00000004
 "PopupColors"=dword:000000f5
-"QuickEdit"=dword:00000000
+"QuickEdit"=dword:00000001
 "ScreenBufferSize"=dword:270f0078
 "ScreenColors"=dword:0000003b
 "TrimLeadingZeros"=dword:00000000
