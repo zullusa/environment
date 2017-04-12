@@ -4,7 +4,7 @@ Windows Registry Editor Version 5.00
 "ColorTable00"=dword:00000000
 "ColorTable01"=dword:00652705
 "ColorTable02"=dword:001c4b05
-"ColorTable03"=dword:00804000
+"ColorTable03"=dword:00a46534
 "ColorTable04"=dword:00140da6
 "ColorTable05"=dword:00340034
 "ColorTable06"=dword:000080ff
@@ -14,9 +14,9 @@ Windows Registry Editor Version 5.00
 "ColorTable10"=dword:0080ff80
 "ColorTable11"=dword:00ffff5e
 "ColorTable12"=dword:008484ff
-"ColorTable13"=dword:00ff80ff
+"ColorTable13"=dword:004fe9fc
 "ColorTable14"=dword:0003ede8
-"ColorTable15"=dword:00ffffff
+"ColorTable15"=dword:00eceeee
 "CursorSize"=dword:00000019
 "EnableColorSelection"=dword:00000000
 "ExtendedEditKey"=dword:00000000
